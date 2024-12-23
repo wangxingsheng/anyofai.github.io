@@ -32,7 +32,7 @@ WildCard是国内最知名的虚拟信用卡平台，不仅可用于订阅ChatGP
 
 ### 第一步：访问WildCard官网，并点击右上角的“登录/注册”按钮。
 
-* WildCard官网地址：https://bewildcard.com/i/ANYOFAI
+* WildCard官网地址：https://bewildcard.com/i/ZKNZESWF
 
 ![使用支付宝获取WildCard虚拟信用卡第一步：访问WildCard官网，并点击右上角的“登录/注册”按钮](https://raw.githubusercontent.com/anyofai/anyofai.github.io/refs/heads/main/image/1-ChatGPT%20Plus%E8%AE%A2%E9%98%85-%E7%82%B9%E5%87%BB%E7%99%BB%E5%BD%95%E6%88%96%E6%B3%A8%E5%86%8C.jpg)
 
